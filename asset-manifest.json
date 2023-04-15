@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/OIBSIP/static/css/main.f544f0b0.css",
+    "main.js": "/OIBSIP/static/js/main.fe34e717.js",
+    "index.html": "/OIBSIP/index.html",
+    "main.f544f0b0.css.map": "/OIBSIP/static/css/main.f544f0b0.css.map",
+    "main.fe34e717.js.map": "/OIBSIP/static/js/main.fe34e717.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f544f0b0.css",
+    "static/js/main.fe34e717.js"
+  ]
+}
